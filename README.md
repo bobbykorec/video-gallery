@@ -1,8 +1,8 @@
 # Video Gallery
 
-[Live demo](https://codepen.io/bobbykorec/live/XNpjem "Video Gallery Live Demo")
-
 Fully responsive video gallery using the magnific popup lightbox plugin with slick hover effects.
+
+[Live demo](https://codepen.io/bobbykorec/live/XNpjem "Video Gallery Live Demo")
 
 Demo notes: Videos are not mine. However, images are.
 
