@@ -8,4 +8,4 @@ Video gallery using the magnific popup lightbox plugin with slick hover effects.
 
 <img width="1303" alt="Screen Shot 2021-06-21 at 8 31 35 PM" src="https://user-images.githubusercontent.com/17466307/122858790-b9129c80-d2cf-11eb-86af-75c5d40c9b2a.png">
 
-* Videos are not mine. However, images are.
+Videos are not mine. However, images are.
